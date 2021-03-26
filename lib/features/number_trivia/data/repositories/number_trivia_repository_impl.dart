@@ -53,3 +53,4 @@ class NumberTriviaRepositoryImplementation implements NumberTriviaRepository {
     }
   }
 }
+//
