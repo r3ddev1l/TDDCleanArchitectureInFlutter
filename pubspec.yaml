@@ -23,8 +23,8 @@ dependencies:
   # functional programming
   dartz: ^0.8.6
   # api connection
-  connectivity: ^0.4.3+7
   http: ^0.12.0+2
+  data_connection_checker: ^0.3.4
   # local cache
   shared_preferences: ^0.5.3+4
 
