@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:meta/meta.dart';
 
+import 'package:meta/meta.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../models/number_trivia_model.dart';
