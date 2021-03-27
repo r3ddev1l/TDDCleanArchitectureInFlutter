@@ -22,7 +22,6 @@ class NumberTriviaLocalDataSourceImpl implements NumberTriviaLocalDataSource {
   }
 
   Future<void> cacheNumberTrivia(NumberTriviaModel triviaToCache) {
-    // TODO: implement cacheNumberTrivia
     throw UnimplementedError();
   }
 }
